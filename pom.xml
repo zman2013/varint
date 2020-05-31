@@ -4,7 +4,7 @@
 
     <groupId>com.zmannotes</groupId>
     <artifactId>varint</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>java varint</name>
     <description>varint implementation in java.</description>
@@ -178,7 +178,7 @@
         <connection>scm:git:git@github.com:zman2013/varint.git</connection>
         <developerConnection>scm:git:git@github.com:zman2013/varint.git</developerConnection>
         <url>https://github.com/zman2013/varint</url>
-        <tag>varint-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <profiles>
