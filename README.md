@@ -3,7 +3,7 @@
 
 
 # varint
-A java implementation of the varint
+A java implementation of the varint 
 
 ## Getting started
 ### Setting up the dependency
